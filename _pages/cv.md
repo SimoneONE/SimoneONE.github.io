@@ -24,7 +24,6 @@ Work experience
 * March 2018 - October 2018: Analyst Consultant at Capgemini
 * January 2018 - February 2018: Software Development Engineer at Alten
 
-<br>  
 <section class="button" itemprop="text"><p class="button"><a href="/files/simone_agostinelli_cv.pdf">My Curriculum Vitae</a></p>
         
 <!--Skills
