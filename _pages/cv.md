@@ -15,23 +15,17 @@ Education
 * Bachelor of Science in Engineering in Computer Science and System Engineering, Sapienza University of Rome, October 2015
 * Diploma di Perito Industriale Capotecnico Informatico, I.T.I. Giovanni Lattanzio, July 2012
 
-<b>Teaching</b>
+Teaching
 ======
-  * Teaching assistant for the “Progettazione del Software” course, in the Bachelor’s
-Degree in Computer and System Engineering, current
+  * Teaching assistant for the “Progettazione del Software” course, in the Bachelor’s Degree in Computer and System Engineering, current
   
 Work experience
 ======
 * March 2018 - October 2018: Analyst Consultant at Capgemini
 * January 2018 - February 2018: Software Development Engineer at Alten
-  
-  <section class="page__content" itemprop="text">
-        
-        <p class="notice--info">My Curriculum Vitae <a href="/files/simone_agostinelli_cv.pdf">here</a>.</p>
-        
-<ul class="actions">
-							<li><a href="/files/simone_agostinelli_cv.pdf" target="_blank" class="button">My Curriculum Vitae</a></li>
-						</ul>
+
+<br>  
+<section class="page__content" itemprop="text"><p class="notice--info"><a href="/files/simone_agostinelli_cv.pdf">My Curriculum Vitae </a>.</p>
         
 <!--Skills
 ======
