@@ -11,18 +11,25 @@ redirect_from:
 Education
 ======
 * Ph.D student in Engineering in Computer Science, Sapienza University of Rome, current
-* Master of Science in Engineering in Computer Science, Sapienza University of Rome, 2018
-* Bachelor of Science in Engineering in Computer Science and Control Engineering, Sapienza University of Rome, 2015
+* Master of Science in Engineering in Computer Science, Sapienza University of Rome, January 2018
+* Bachelor of Science in Engineering in Computer Science and System Engineering, Sapienza University of Rome, October 2015
+* Diploma di Perito Industriale Capotecnico Informatico, I.T.I. Giovanni Lattanzio, July 2012
 
+<b>Teaching</b>
+======
+  * Teaching assistant for the “Progettazione del Software” course, in the Bachelor’s
+Degree in Computer and System Engineering, current
+  
 Work experience
 ======
 * March 2018 - October 2018: Analyst Consultant at Capgemini
-  * Via di Torre Spaccata 140, 00173 Rome
-
-* January 2018 - February 2018: Software Development Engineer at Alten Italia
-  * Via Adolfo Ravà 124, 00142 Rome
+* January 2018 - February 2018: Software Development Engineer at Alten
   
-Skills
+  <section class="page__content" itemprop="text">
+        
+        <p class="notice--info">My Curriculum Vitae <a href="/files/simone_agostinelli_cv.pdf">here</a>.</p>
+        
+<!--Skills
 ======
 * Skill 1
 * Skill 2
@@ -30,25 +37,22 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul>  
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+-->
