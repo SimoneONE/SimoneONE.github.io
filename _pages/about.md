@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: "Simone Agostinelli"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
