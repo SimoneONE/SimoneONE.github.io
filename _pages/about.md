@@ -1,9 +1,17 @@
-Who am I?
-======
+---
+permalink: /
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
+<h2 id="who-am-i">Who am I?</h2>
 I am a Ph.D. Student of the 34th cycle(A.Y. 2018/2019) in Engineering in Computer Science at the Department of Computer, Control and Management Engineering “Antonio Ruberti” at Sapienza University of Rome. My advisor is prof. <a href="http://www.dis.uniroma1.it/~mecella">Massimo Mecella</a> and my research area is Business Process Management (BPM). My research interests involve Process Mining, Robotic Process Automation (RPA) and Automated Planning for BPM.
 
-Contact me
-======
+<h2 id="contact-me">Contact me</h2>
 Sapienza - University of Rome
 Department of Computer, Control and Management Engineering “Antonio Ruberti”
 Via Ariosto 25, 00185 Roma
