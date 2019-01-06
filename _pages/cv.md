@@ -25,7 +25,7 @@ Work experience
 * January 2018 - February 2018: Software Development Engineer at Alten
 
 <br>  
-<section class="page__content" itemprop="text"><p class="notice--info"><a href="/files/simone_agostinelli_cv.pdf">My Curriculum Vitae </a>.</p>
+<section class="button" itemprop="text"><p class="notice--info"><a href="/files/simone_agostinelli_cv.pdf">My Curriculum Vitae</a></p>
         
 <!--Skills
 ======
