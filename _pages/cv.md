@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,21 +10,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D student in Engineering in Computer Science, Sapienza University of Rome, current
+* Master of Science in Engineering in Computer Science, Sapienza University of Rome, 2018
+* Bachelor of Science in Engineering in Computer Science and Control Engineering, Sapienza University of Rome, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March 2018 - October 2018: Analyst Consultant at Capgemini
+  * Via di Torre Spaccata 140, 00173 Rome
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2018 - February 2018: Software Development Engineer at Alten Italia
+  * Via Adolfo Ravà 124, 00142 Rome
   
 Skills
 ======
