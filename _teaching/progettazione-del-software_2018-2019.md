@@ -8,4 +8,4 @@ date: 2018-10-01
 location: "Rome, Italy"
 ---
 
-https://sites.google.com/a/diag.uniroma1.it/progettazione-del-software-2018-19/
+<a href="https://sites.google.com/a/diag.uniroma1.it/progettazione-del-software-2018-19/">Web site of the Course</a>
