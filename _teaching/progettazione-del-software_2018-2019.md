@@ -1,20 +1,11 @@
 ---
-title: "Progettazione del Software 2018/2019"
+title: "Progettazione del Software A.Y. 2018-2019"
 collection: teaching
-type: "2° year course"
+type: "2° year course of the Bachelor’s Degree in Computer and System Engineering"
 permalink: /teaching/progettazione-del-software_2018-2019
-venue: "Sapienza University, Department of ..."
-date: 2014-10-01
+venue: "Sapienza University of Rome, Department of Computer, Control, and Management Engineering (DIAG) “Antonio Ruberti”"
+date: 2018-10-01
 location: "Rome, Italy"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+https://sites.google.com/a/diag.uniroma1.it/progettazione-del-software-2018-19/
