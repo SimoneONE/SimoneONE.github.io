@@ -1,5 +1,5 @@
 ---
-title: "Progettazione del Software A.Y. 2018-2019"
+title: "Tutor of Progettazione del Software A.Y. 2018-2019"
 collection: teaching
 type: "2° year course of the Bachelor’s Degree in Computer and System Engineering"
 permalink: /teaching/progettazione-del-software_2018-2019
