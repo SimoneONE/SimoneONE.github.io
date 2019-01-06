@@ -29,6 +29,10 @@ Work experience
         
         <p class="notice--info">My Curriculum Vitae <a href="/files/simone_agostinelli_cv.pdf">here</a>.</p>
         
+<ul class="actions">
+							<li><a href="/files/simone_agostinelli_cv.pdf" target="_blank" class="button">My Curriculum Vitae</a></li>
+						</ul>
+        
 <!--Skills
 ======
 * Skill 1
