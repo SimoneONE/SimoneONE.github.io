@@ -4,6 +4,7 @@ collection: teaching
 type: "2° year course of the Bachelor’s Degree in Computer and System Engineering"
 permalink: /teaching/progettazione-del-software_2018-2019
 venue: "Sapienza University of Rome, Department of Computer, Control, and Management Engineering (DIAG) “Antonio Ruberti”"
+date: 2018-10-01
 location: "Rome, Italy"
 ---
 
