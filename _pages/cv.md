@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. student in Engineering in Computer Science, Sapienza University of Rome, current
+* Ph.D. Student in Engineering in Computer Science, Sapienza University of Rome, current
 * Master of Science in Engineering in Computer Science, Sapienza University of Rome, January 2018
 * Bachelor of Science in Engineering in Computer Science and System Engineering, Sapienza University of Rome, October 2015
 * Diploma di Perito Industriale Capotecnico Informatico, I.T.I. Giovanni Lattanzio, July 2012
