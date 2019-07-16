@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Synthesis of Strategies for Robotic Process Automation"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This PhD paper presents my research proposal: Robotic Process Automation is an umbrella term for tools that run on an end user’s computer, emulating tasks previously executed through a user interface by means of a software robot. Nowadays, only simple, predictable tasks can be automated in situations where there is no room for interpretation, while more sophisticated work is still left to human experts. The here proposed research aims at tackling this issue through a paradigm shift in conceiving software robots that are able to  behave  intelligently  and  flexibly  in  many  dynamic  and  knowledge-intensive situations that are common in today’s application scenarios.'
+date: 2019-06-16
+venue: 'Italian Symposium on Advanced Database Systems'
+paperurl: 'http://ceur-ws.org/Vol-2400/paper-53.pdf'
+
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This PhD paper presents my research proposal: Robotic Process Automation is an umbrella term for tools that run on an end user’s computer, emulating tasks previously executed through a user interface by means of a software robot. Nowadays, only simple, predictable tasks can be automated in situations where there is no room for interpretation, while more sophisticated work is still left to human experts. The here proposed research aims at tackling this issue through a paradigm shift in conceiving software robots that are able to  behave  intelligently  and  flexibly  in  many  dynamic  and  knowledge-intensive situations that are common in today’s application scenarios.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Author: Simone Agostinelli.
