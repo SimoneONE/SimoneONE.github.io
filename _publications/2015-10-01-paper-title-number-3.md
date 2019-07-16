@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Research Challenges for Intelligent Robotic Process Automation"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'In this paper, after an in-depth experimentation of the RPA tools available in the market, we developed a classification framework to categorize them on the basis of some key dimensions. Then, starting from this analysis, we derived four research
+challenges necessary to inject intelligence into current RPA technology.'
+date: 2019-09-02
+venue: 'Workshop on Artificial Intelligence for Business Process Management'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+In this paper, after an in-depth experimentation of the RPA tools available in the market, we developed a classification framework to categorize them on the basis of some key dimensions. Then, starting from this analysis, we derived four research
+challenges necessary to inject intelligence into current RPA technology.
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Authors: Simone Agostinelli, Andrea Marrella, Massimo Mecella.
